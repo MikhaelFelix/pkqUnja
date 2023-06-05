@@ -1,0 +1,11 @@
+.list_menu a {
+  text-decoration: none;
+  color: white;
+  padding: 0 0 3px 3px;
+}
+
+.list_menu a:hover {
+  background-color: rgba(50, 50, 50, 1);
+  border-radius: 10px 0 0 10px;
+  box-shadow: 0 5px 4px rgba(0, 0, 0, 0.25);
+}

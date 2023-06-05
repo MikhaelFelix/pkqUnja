@@ -1,0 +1,28 @@
+form .button1 {
+  background-color: rgba(0, 72, 37, 0.9);
+  opacity: 70%;
+  box-shadow: 0px 8px 20px #3d8361;
+  color: whitesmoke;
+  border-radius: 5%;
+  border: 0px solid black;
+  height: 50px;
+}
+
+form .button1:hover {
+  background-color: #0b9452;
+}
+
+form .button2 {
+  background-color: white;
+  border-radius: 5%;
+  border: 1px solid black;
+  height: 50px;
+}
+
+.scrollspyHeading2 {
+  color: aqua;
+}
+
+.namaMasukan {
+  border: 1px solid black;
+}
